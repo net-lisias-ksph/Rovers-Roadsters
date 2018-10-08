@@ -1,5 +1,9 @@
 # Rovers & Roadsters :: Change Log
 
+* 2016-0427: 0.7.2 (AlphaAsh) for KSP 1.1.2
+	+ Fixed orientation of trailer bed nodes.
+	+ Fixed orientation of connecting trailer parts.
+	+ Credit to Vorg for finding the issue.
 * 2016-0426: 0.7.1 (AlphaAsh) for KSP 1.1
 	+ Added KIS support to the boot. Needs ModuleManager (included).
 	+ Tweaked some nodes on trailer parts.
